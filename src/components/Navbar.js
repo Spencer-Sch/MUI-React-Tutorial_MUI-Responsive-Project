@@ -71,7 +71,7 @@ function Navbar() {
 
   const classes = useStyles({ open });
   return (
-    <AppBar>
+    <AppBar position="fixed">
       <Toolbar className={classes.toolbar}>
         <Typography variant="h6" className={classes.logoLg}>
           brook4

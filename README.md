@@ -31,3 +31,19 @@ Material UI Responsive Design
 Using Props in Theme
 
 - Complete
+
+Material UI Grid System
+
+- Complete
+
+Responsive Sidebar
+
+- Complete
+
+Material UI Card
+
+- Complete
+
+Material UI Tooltip
+
+- Complete

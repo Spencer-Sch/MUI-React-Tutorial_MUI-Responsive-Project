@@ -1,4 +1,4 @@
-import { Container, List, makeStyles, Typography } from '@material-ui/core';
+import { Container, makeStyles, Typography } from '@material-ui/core';
 import {
   Bookmark,
   ExitToApp,

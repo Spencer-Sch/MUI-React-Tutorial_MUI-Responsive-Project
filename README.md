@@ -47,3 +47,21 @@ Material UI Card
 Material UI Tooltip
 
 - Complete
+
+Material UI Modal
+
+- Complete
+
+Material UI Form
+
+- Complete
+
+Material UI Notification Snackbar
+
+- Complete
+
+Material UI Right Menu
+
+- Complete
+
+TUTORIAL COMPLETE!

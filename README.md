@@ -1,67 +1,79 @@
-# Material UI React Tutorial | Material UI Responsive Project
+# Material-UI React Tutorial
 
-## Working through a tutorial to learn more about Material-UI
+#### by Lama Dev
 
-- https://www.youtube.com/watch?v=lKZiXQWnlUw
+[YouTube Link](https://www.youtube.com/watch?v=lKZiXQWnlUw)
 
-Introduction
+---
 
-- Complete
+## Description
 
-How to Use Material UI in React
+Working through a tutorial to learn more about Material-UI
 
-- Complete
+---
 
-Material UI Custom Styles
+## Course Sections
 
-- Complete
+#### Introduction
 
-How to Create a Theme
+✅ Complete
 
-- Complete
+#### How to Use Material UI in React
 
-Material UI Navbar (AppBar)
+✅ Complete
 
-- Complete
+#### Material UI Custom Styles
 
-Material UI Responsive Design
+✅ Complete
 
-- Complete
+#### How to Create a Theme
 
-Using Props in Theme
+✅ Complete
 
-- Complete
+#### Material UI Navbar (AppBar)
 
-Material UI Grid System
+✅ Complete
 
-- Complete
+#### Material UI Responsive Design
 
-Responsive Sidebar
+✅ Complete
 
-- Complete
+#### Using Props in Theme
 
-Material UI Card
+✅ Complete
 
-- Complete
+#### Material UI Grid System
 
-Material UI Tooltip
+✅ Complete
 
-- Complete
+#### Responsive Sidebar
 
-Material UI Modal
+✅ Complete
 
-- Complete
+#### Material UI Card
 
-Material UI Form
+✅ Complete
 
-- Complete
+#### Material UI Tooltip
 
-Material UI Notification Snackbar
+✅ Complete
 
-- Complete
+#### Material UI Modal
 
-Material UI Right Menu
+✅ Complete
 
-- Complete
+#### Material UI Form
 
-TUTORIAL COMPLETE!
+✅ Complete
+
+#### Material UI Notification Snackbar
+
+✅ Complete
+
+#### Material UI Right Menu
+
+✅ Complete
+
+## TUTORIAL COMPLETE!
+
+[Back To The Top](#material-ui-react-tutorial)
